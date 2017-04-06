@@ -54,6 +54,7 @@ dependencies {
     deployment "fr.openent:search-engine:$searchEngineVersion:deployment"
     deployment "fr.openent:exercizer:$exercizerVersion:deployment"
     deployment "fr.wseduc:leo-theme:$themeVersion"
+    deployment "net.atos:mediacentre:$mediacentreVersion:deployment"
 }
 
 repositories{
