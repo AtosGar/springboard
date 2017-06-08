@@ -22,7 +22,7 @@
     "email.regards": "",
     "email.reset.infos": "Si vous n'êtes pas à l'origine de cette demande, vous pouvez ignorer cet email.",
     "email.reset.pw.infos": "Vous avez demandé la réinitialisation de votre mot de passe pour vous connecter au Simulateur ENT.",
-	"email.signature" : "GAR , l’ENT des lycées de Picardie<br/><a href=\"http://gar.éducation.fr\">http://gar.éducation.fr</a>",
+	"email.signature" : "GAR, le simulateur ENT<br/><a href=\"http://gar.éducation.fr\">http://gar.éducation.fr</a>",
 	"phone.hi": "Bonjour, ",
 	"phone.how.to.reset": "Vous pouvez vous connecter au Simulateur ENT en saisissant votre identifiant et votre nouveau code d'activation",
 	"phone.login": "Voici le rappel de votre identifiant de connexion au Simulateur ENT",
